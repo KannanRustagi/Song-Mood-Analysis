@@ -1,5 +1,7 @@
 # Spotify Song Mood Analysis using Classification and Clustering
 
+More details of the ideas, implementation and results can be found in the final report.<br>
+
 We have devised an innovative approach to predict a track’s mood based on audio
 features. We have mainly classified a song into one of four moods – calm, happy,
 energetic, and sad. For EDA, we have constructed Heatmaps correlating the features,
