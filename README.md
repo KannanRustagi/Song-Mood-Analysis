@@ -1,6 +1,6 @@
 # Spotify Song Mood Analysis using Classification and Clustering
 
-Group Members-<br>
+Group Members-
 1. Achintya Gupta
 2. Ankita Kanoji
 3. Arnav Sharan
