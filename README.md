@@ -1,5 +1,11 @@
 # Spotify Song Mood Analysis using Classification and Clustering
 
+Group Members-<br>
+1. Achintya Gupta
+2. Ankita Kanoji
+3. Arnav Sharan
+4. Kannan Rustagi
+
 More details of the ideas, implementation and results can be found in the final report.<br>
 
 We have devised an innovative approach to predict a track’s mood based on audio
